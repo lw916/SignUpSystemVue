@@ -1,0 +1,163 @@
+{
+  "id": "2260337",
+  "name": "property-management",
+  "font_family": "iconfont",
+  "css_prefix_text": "iconfont-",
+  "description": "web大作业物业管理",
+  "glyphs": [
+    {
+      "icon_id": "1330574",
+      "name": "我的资金",
+      "font_class": "wodezijin",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "1715035",
+      "name": "电费",
+      "font_class": "dianfei",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1883240",
+      "name": "商品管理",
+      "font_class": "goodsmanagement",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "3781145",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4176232",
+      "name": "水",
+      "font_class": "ziyuan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4180416",
+      "name": "门",
+      "font_class": "men",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "4186681",
+      "name": "保洁",
+      "font_class": "baojie",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "4276973",
+      "name": "保洁",
+      "font_class": "baojie1",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "4925538",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "5137887",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "7150092",
+      "name": "水电缴费",
+      "font_class": "shuidianjiaofei",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "8153885",
+      "name": "修理装修",
+      "font_class": "tools-",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "10176423",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "10709042",
+      "name": "费用单据",
+      "font_class": "feiyongdanju",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13478600",
+      "name": "购物",
+      "font_class": "icon-test",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "13478686",
+      "name": "管理",
+      "font_class": "A",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "14055529",
+      "name": "QQ",
+      "font_class": "QQ1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "15766537",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "15933094",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "17537880",
+      "name": "人民币",
+      "font_class": "renminbi",
+      "unicode": "ed25",
+      "unicode_decimal": 60709
+    },
+    {
+      "icon_id": "17811497",
+      "name": "ic_维修服务",
+      "font_class": "ic_weixiufuwu",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "18099203",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "ef0f",
+      "unicode_decimal": 61199
+    }
+  ]
+}
